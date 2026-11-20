@@ -1,0 +1,9 @@
+.venv/
+venv/
+.idea/
+__pycache__/
+*.pyc
+
+SampleVideo2.mp4
+
+SampleVideo2.mp4
